@@ -31,6 +31,6 @@ console.log(process.env.DATABASE_URL)
 
 
 
-app.listen( 8800 , () => {
+app.listen( 8000 , () => {
   console.log("Server is running ");
 });
